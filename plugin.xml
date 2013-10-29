@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="com.adobe.plugins.PushPlugin"
-    version="1.M.3">
+    id="com.adobe.plugins.PushPlugin>1.5M"
+    version="1.8.3">
 
     <name>PushPlugin</name>
     
